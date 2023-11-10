@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Chaudhary</h1>
-<h3 align="center">A passionate mobile app developer from Nepal</h3>
+<h3 align="center">A passionate website developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Smart Contract**
 
