@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity Blockchain**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **React, Node**
 
 - 📫 How to reach me **chaudharyroshan2020@gmail.com**
 
